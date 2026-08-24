@@ -2,7 +2,7 @@
 
 ## 1. Quadro Kanban no GitHub Projects
 
-**Link para o quadro:** [GitHub Projects - AgileTech Solutions](COLOQUE_AQUI_O_LINK_DO_SEU_PROJECT)
+**Link para o quadro:** [GitHub Projects - AgileTech Solutions](https://github.com/users/ayanliger/projects/2)
 
 ### 1.1 Colunas configuradas
 
